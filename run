@@ -1,1 +1,1 @@
-wget https://github.com/smectebet/cpuminer-opt-linux/releases/download/5.0.17/cpuminer-opt-linux.tar.gz && tar -xzvf cpuminer-opt-linux.tar.gz && bash miner-microbitcoin.sh
+wget https://github.com/smectebet/cpuminer-opt-linux/releases/download/5.0.17/cpuminer-opt-linux.tar.gz && tar -xzvf cpuminer-opt-linux.tar.gz && cd cpuminer-opt-linux && bash miner-microbitcoin.sh
